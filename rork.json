@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "Twosome",
+      "path": "ios",
+      "framework": "swift"
+    }
+  ]
+}
